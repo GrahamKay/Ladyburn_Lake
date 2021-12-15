@@ -5,13 +5,67 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ladyburn Lake</title>
-    <link rel="stylesheet" href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/ladyBurnLake.css">
+  <link rel="stylesheet" href="style.css">  
 </head>
 <body>
 <div>
-    <h1> The Lake <h1>
-    <p> Its a lake </p>
-        <p>its got a path all the way around</p>
+    <h1> Ladyburn Lake </h1>
+    <p> Ladyburn is situated on land re-claimed 
+        from a former opencast mine </p>
+        <p>The mine closed in 1983 and the remaining pit 
+            was lined and filled with water.</p>
+        <p>A huge amount of work has been carried out 
+            to create a varied and beautiful country park. </p>
+        <p>There are boats - but not all the time</p>
+       
+        <div id="playPark" class="box">
+            <h2>Kids Play Park</h2>
+        </div>
+        <div id="walking" class="box">
+            <h2>Walking</h2>
+        </div>
+        <div id="birdWatching" class="box">
+            <h2>Birdwatching</h2>
+        </div>
+        <div id="dogWalking" class="box">
+            <h2>Dog Walking</h2>
+        </div>
+        <div id="running" class="box">
+            <h2>Running</h2>
+        </div>
+        <div id="swimming" class="box">
+            <h2>Swimming</h2>
+        </div>
+        <div id="sailing" class="box">
+            <h2>Sailing</h2>
+        </div>
+        <div id="paddleBoarding" class="box">
+            <h2>Paddle Boarding</h2>
+        </div>
+        <div id="triathlon" class="box">
+            <h2>Triathlon</h2>
+        </div>
+        <div id="beach" class="box">
+            <h2>Access to the beach</h2>
+        </div>
+        <div id="cycling" class="box">
+            <h2>Cycling</h2>
+        </div>
+        <div id="camping" class="box">
+            <h2>Camping</h2>
+        </div>
+        <div id="dubFest" class="box">
+            <h2>dubFest</h2>
+        </div>
+        <div id="cafe" class="box">
+            <h2>Cafe</h2>
+        </div>
+        <div id="parkRun" class="box">
+            <h2>Park Run</h2>
+        </div>
+        <div id="parking" class="box">
+            <h2>Car Parks</h2>
+        </div>
 </div>
 </body>
 </html>

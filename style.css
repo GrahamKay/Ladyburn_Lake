@@ -1,0 +1,29 @@
+h1 {
+color:blue ;
+text-align: center;
+}
+p {
+    text-align: center;
+}
+
+#box-container {
+    height: 500px;
+    display:flex;
+}
+.box {
+    background-color: cornsilk;
+    width: 50%;
+    height: 30%;
+    text-align: center;
+    border: rgb(223, 24, 24);
+    border-width: 5px;
+    border-style: double;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    column-gap: 25px;
+    
+}
+.box:hover{
+    background-color:gold;
+}
