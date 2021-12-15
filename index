@@ -5,11 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ladyburn Lake</title>
+    <link rel="stylesheet" href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/ladyBurnLake.css">
 </head>
 <body>
 <div>
     <h1> The Lake <h1>
-    <p> Its a lake <p>
+    <p> Its a lake </p>
+        <p>its got a path all the way around</p>
 </div>
 </body>
 </html>
