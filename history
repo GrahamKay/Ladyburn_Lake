@@ -9,12 +9,15 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="playPark" class="box">
-        <h2>Kids Play Park</h2>
+    <div id="history" class="box">
+        <h2>History</h2>
     </div>
-    <p>The play park at Ladyburn lake has been recently refurbished and is now mega</p>
-</body>
+    <p>Ladyburn lake was created decades ago on the site of an opencast coal mine.</p>
+    <p>Before the opencast mine there was a thriving community of drift miners </p>
+    <p>The coal seams the drift mines cut through would regularly be dug up in the opencast mine exposing the pillars and supports the miners had used previously.</p>
+
 <footer class="footer_box">
     <p> <a href="index">Back to the front page</a></p>
 </footer>
+</body>
 </html>

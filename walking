@@ -9,12 +9,14 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="playPark" class="box">
-        <h2>Kids Play Park</h2>
+    <div id="walking" class="box">
+        <h2>Walking</h2>
     </div>
-    <p>The play park at Ladyburn lake has been recently refurbished and is now mega</p>
-</body>
+    <p>There are many accessible walking paths around 
+        the lake and through the forests.</p>
+
 <footer class="footer_box">
     <p> <a href="index">Back to the front page</a></p>
 </footer>
+</body>
 </html>
