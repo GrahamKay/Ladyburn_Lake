@@ -1,5 +1,9 @@
+div {
+    background-color: rgba(35, 21, 240, 0.089);
+    opacity: 0.9;
+  }
 h1 {
-color:blue ;
+color:rgb(90, 164, 250) ;
 text-align: center;
 }
 p {
