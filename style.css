@@ -1,6 +1,6 @@
 div {
     background-color: rgba(35, 21, 240, 0.089);
-    opacity: 0.9;
+    opacity: 0.8;
   }
 h1 {
     font-family: 'Raleway', sans-serif;
@@ -15,9 +15,25 @@ p {
     text-align: center;
 }
 
+#title {
+    width: 90%;
+    height: 30%;
+    text-align: center;
+    border: rgb(223, 24, 24);
+    border-width: 5px;
+    border-style: double;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    column-gap: 25px;
+    background-image: url("/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/photos/lakejpeg.jpg");
+    background-size: cover;
+}
+
 #box-container {
     height: 500px;
     display:flex;
+
 }
 .box {
     background-color: cornsilk;
