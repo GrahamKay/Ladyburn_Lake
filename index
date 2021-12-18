@@ -13,16 +13,16 @@
 </head>
 <body>
 <div id="title">
-    <h1> Ladyburn Lake </h1>
+    <h1> <b> Ladyburn Lake</b> </h1>
     <p> Ladyburn Lake is situated on land re-claimed 
         from a former opencast mine </p>
         <p>The mine closed in 1983 and the remaining pit 
             was lined and filled with water.</p>
         <p>A huge amount of work has been carried out 
             to create a varied and beautiful country park. </p>
-        <p>There are boats - but not all the time</p>
-    
-       
+        <p>There are boats - but not all the time</p>   
+</div>   
+<div id="listOfPages">  
         <div id="playPark" class="box">
             <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/kidsPark.html"> 
                 Kids Play Park</a></h2>
