@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Graham Kay">
     <title>Ladyburn Lake</title>
-  <link rel="stylesheet" href="style.css">  
+  <link rel="stylesheet" href="style2.css">  
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet"> 
 </head>
 <body>
-<div id="title">
+<header id="title">
     <h1> <b> Ladyburn Lake</b> </h1>
     <p> Ladyburn Lake is situated on land re-claimed 
         from a former opencast mine </p>
@@ -21,7 +21,8 @@
         <p>A huge amount of work has been carried out 
             to create a varied and beautiful country park. </p>
         <p>There are boats - but not all the time</p>   
-</div>   
+</header>   
+
 <div id="listOfPages">  
         <div id="playPark" class="box">
             <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/kidsPark.html"> 
