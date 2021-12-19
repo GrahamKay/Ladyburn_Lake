@@ -73,7 +73,7 @@
             <h2>Cafe</h2>
         </div>
         <div id="parkRun" class="box">
-            <h2>Park Run</h2>
+            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/parkRun.html">  Park Run</a></h2>
         </div>
         <div id="altHistory" class="box">
             <h2>Alternative History</h2>
