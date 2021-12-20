@@ -56,6 +56,8 @@ header {
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
-    column-gap: 25px;
-      
+    column-gap: 25px;  
+}
+#parkRun {
+    background-image: url("/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/photos/parkrun_logo.png") ;
 }
