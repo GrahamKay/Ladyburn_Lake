@@ -10,10 +10,6 @@ p {
     font-family: 'Raleway', sans-serif;
     text-align: center;
 }
-row {
-    display: flex;
-}
-
 header {
     text-align: center;
     background-image: url("/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/photos/lakejpeg.jpg");
@@ -25,36 +21,36 @@ header {
     padding-top: 50px;
 }
 
-
-.box {
-    background-color: cornsilk;
-    width: 90%;
-    height: 30%;
-    text-align: center;
-    border: rgb(223, 24, 24);
-    border-width: 5px;
-    border-style: double;
-    border-radius: 5px;
-    margin-left: auto;
-    margin-right: auto;
-    column-gap: 25px;
-    margin-bottom: 10px;
-    
-}
-.box:hover{
-    background-color:gold;
-}
-
 .footer_box {
     background-color: cornsilk;
     width: 50%;
     height: 10%;
     text-align: center;
-    border: rgb(223, 24, 24);
+    border: rgb(195, 200, 201);
     border-width: 5px;
     border-style: double;
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
     column-gap: 25px;  
+}
+.box {
+    background-color: rgb(129, 191, 241);
+    color: white;
+    width: 50%;
+    height: 30%;
+    text-align: Center;
+    border: rgb(218, 218, 219);
+    border-width: 5px;
+    border-style: double;
+    border-radius: 10px;
+    column-gap: 25px;
+    margin-top: 10px;
+    
+}
+a:hover{
+    background-color:gold;
+}
+a:visited {
+    color: whitesmoke;
 }

@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="style2.css">  
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet"> 
+<link href='https://fonts.googleapis.com/css?family=Montserrat:600&display=swap' rel="stylesheet"> 
 </head>
 <body>
 <header id="title">
@@ -22,65 +22,71 @@
             to create a varied and beautiful country park. </p>
         <p>There are boats - but not all the time</p>   
 </header>   
+<div>
+    <div id="listOfPages">  
+             
+     <div id="playPark" class="box">
+        <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/kidsPark.html"> 
+            Play Park</a></h2>
+    </div>
+    <div id="games" class="box">
+        <h2>Games</h2>
+    </div>
+ <div id="history" class="box">
+        <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/history">
+            History</a></h2>
+    </div>
+    <div id="walking" class="box">
+        <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/walking">
+            Walking</a></h2>
+    </div>
+    <div id="birdWatching" class="box">
+        <h2>Birdwatching</h2>
+    </div>
+    <div id="dogWalking" class="box">
+        <h2>Dog Walking</h2>
+    </div>
+    <div id="running" class="box">
+        <h2>Running</h2>
+    </div>
+    <div id="swimming" class="box">
+        <h2>Swimming</h2>
+    </div>
+    <div id="sailing" class="box">
+        <h2>Sailing</h2>
+    </div>
+    <div id="paddleBoarding" class="box">
+        <h2>Paddle Boarding</h2>
+    </div>
+    <div id="triathlon" class="box">
+        <h2>Triathlon</h2>
+    </div>
+    <div id="beach" class="box">
+        <h2>Access to the beach</h2>
+    </div>
+    <div id="cycling" class="box">
+        <h2>Cycling</h2>
+    </div>
+    <div id="camping" class="box">
+        <h2>Camping</h2>
+    </div>
+    <div id="dubFest" class="box">
+        <h2>dubFest</h2>
+    </div>
+    <div id="cafe" class="box">
+        <h2>Cafe</h2>
+    </div>
+    <div id="parkRun" class="box">
+        <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/parkRun.html">  Park Run</a></h2>
+    </div>
+    <div id="altHistory" class="box">
+        <h2>Alternative History</h2>
+    </div>
+    <div id="parking" class="box">
+        <h2>Car Parks</h2>
+    </div>
 
-<div id="listOfPages">  
-        <div id="playPark" class="box">
-            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/kidsPark.html"> 
-                Kids Play Park</a></h2>
-        </div>
-        <div id="history" class="box">
-            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/history">
-                History</a></h2>
-        </div>
-        <div id="walking" class="box">
-            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/walking">
-                Walking</a></h2>
-        </div>
-        <div id="birdWatching" class="box">
-            <h2>Birdwatching</h2>
-        </div>
-        <div id="dogWalking" class="box">
-            <h2>Dog Walking</h2>
-        </div>
-        <div id="running" class="box">
-            <h2>Running</h2>
-        </div>
-        <div id="swimming" class="box">
-            <h2>Swimming</h2>
-        </div>
-        <div id="sailing" class="box">
-            <h2>Sailing</h2>
-        </div>
-        <div id="paddleBoarding" class="box">
-            <h2>Paddle Boarding</h2>
-        </div>
-        <div id="triathlon" class="box">
-            <h2>Triathlon</h2>
-        </div>
-        <div id="beach" class="box">
-            <h2>Access to the beach</h2>
-        </div>
-        <div id="cycling" class="box">
-            <h2>Cycling</h2>
-        </div>
-        <div id="camping" class="box">
-            <h2>Camping</h2>
-        </div>
-        <div id="dubFest" class="box">
-            <h2>dubFest</h2>
-        </div>
-        <div id="cafe" class="box">
-            <h2>Cafe</h2>
-        </div>
-        <div id="parkRun" class="box">
-            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/parkRun.html">  Park Run</a></h2>
-        </div>
-        <div id="altHistory" class="box">
-            <h2>Alternative History</h2>
-        </div>
-        <div id="parking" class="box">
-            <h2>Car Parks</h2>
-        </div>
+</div>
 </div>
 </body>
 </html>
