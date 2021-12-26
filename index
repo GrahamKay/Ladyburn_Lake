@@ -23,8 +23,21 @@
         <p>There are boats - but not all the time</p>   
 </header>   
 <div>
+<!--front page titles start here-->
+
     <div id="listOfPages">  
-             
+
+        <div id="events" class="box">
+            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/xxEvents.html">
+            Events</a></h2>
+        </div>
+      
+        <div id="foodAndDrink" class="box">
+            <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/xxFoodAndDrink" Food and Drink>Food and Drink</a></h2>
+        </div>
+        
+<!--front page titles end here-->
+
      <div id="playPark" class="box">
         <h2><a href="/Users/graemekrzysiak/vsCodeProjects/ladyBurnLake/Ladyburn_Lake/kidsPark.html"> 
             Play Park</a></h2>
@@ -70,9 +83,7 @@
     <div id="camping" class="box">
         <h2>Camping</h2>
     </div>
-    <div id="dubFest" class="box">
-        <h2>dubFest</h2>
-    </div>
+   
     <div id="cafe" class="box">
         <h2>Cafe</h2>
     </div>

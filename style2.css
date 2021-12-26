@@ -36,8 +36,8 @@ header {
 }
 .box {
     background-color: rgb(129, 191, 241);
-    color: white;
-    width: 50%;
+    color: rgb(0, 0, 0);
+    width: 100%;
     height: 30%;
     text-align: Center;
     border: rgb(218, 218, 219);
@@ -48,9 +48,19 @@ header {
     margin-top: 10px;
     
 }
-a:hover{
-    background-color:gold;
+
+
+.box:hover{
+    background-color:rgb(20, 127, 189);
+    background-image: radial-gradient(rgb(187, 188, 241), rgb(75, 161, 219), rgb(151, 179, 223));
 }
+
 a:visited {
-    color: whitesmoke;
+    color:black;
 }
+/*
+#playPark:hover{
+    background-color:rgb(20, 127, 189);
+    background-image: radial-gradient(rgb(187, 188, 241), rgb(75, 161, 219), rgb(151, 179, 223));
+}
+*/
